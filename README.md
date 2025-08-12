@@ -2,7 +2,7 @@
 
 Aplicação web interativa em **Streamlit** que consulta a API de Nomes do **IBGE** e exibe a frequência de um nome ao longo das décadas, com tabela e gráfico.
 
-[![Deploy Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/fbressa/webappIBGE)
+[![Deploy Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fbressa-webappibge-webappibge-mynuph.streamlit.app/)
 
 ---
 
